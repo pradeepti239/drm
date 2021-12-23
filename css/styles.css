@@ -225,7 +225,7 @@
 }
 
 .unit_table tr:hover {
-    font-weight: 700;
+    background-color: rgb(53, 115, 163, 0.3);
 }
 
 /* for create employee page */
@@ -396,7 +396,7 @@ legend {
         align-items: center;
     }
 
-    .topRow_empleave{
+    .topRow_empleave {
         padding-left: 4vw;
     }
 }
